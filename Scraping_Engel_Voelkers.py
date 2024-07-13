@@ -1,9 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Created on Thu Dec  7 11:59:09 2023
-
-@author: Group 8
 """
 # ----------------------------------------------------------------------------------------------------------------------------
 # General remarks regarding the code:
