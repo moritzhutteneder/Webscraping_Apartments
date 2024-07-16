@@ -30,6 +30,6 @@ The following Python libraries are required to run the code:
 - `webdriver_manager`
 - `pandas`
 
-You can install these dependencies using the following command:
+You can install these dependencies either by using the requirements.txt file or by using the following command:
 ```sh
 pip install bs4 selenium webdriver_manager pandas
